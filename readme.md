@@ -40,6 +40,7 @@
   - [Miscellaneous](#miscellaneous)
   - [Contribute](#contribute)
   - [License](#license)
+  - [CypherpunkGuide](https://cypherpunkguide.com)
 
 
 ## Windows 10 Privacy
